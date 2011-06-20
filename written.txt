@@ -1,0 +1,71 @@
+IS 683 Mid-Term Exam . Job Interview
+
+You can submit your answers to these questions in an email to me OR for extra credit of 10% answer these questions in a file along with your programing assignment and submit the answers using GITHub, when you submit the programming portion.   Each of these questions is worth 2.5 points for a total of 50 points.  Your programming test is worth 5 Point per part for a total of 50 points.  The entire exam is worth 100 points.
+
+Job Description
+
+Company XYZ is hiring an entry level PHP programmer to maintain and develop custom applications in PHP.   You will expected to be able to write object oriented PHP code, SQL queries, HTML, CSS, and Javascript/Jquery.  
+
+Applicants should be able to work in teams and should have experience using a version control system.   The ideal candidate should be familiar with new technologies like MongoDB/NoSQL databases, software design patterns, KISS, and DRY principles of software development.  Applicants should also have experience using the LINUX/UNIX command line.
+
+We are hiring an entry
+
+1.	What does the acronym KISS mean and how does following this make you a better computer programmer?
+	Kepp it simple, stupid. The simpler the program, the easier to understand, debug, and easier for other programmers to understand, build upon etc.
+
+2.	What does the acronym DRY mean and why is it an essential principle of being a good computer programmer?
+	Don't repeat yourself. Much more efficient to make future changes, know ehat changes with the changes anf followup.
+
+3.	What is the difference between a database like MongoDB and MySQL?
+	Mongo is a non relational DB, MySQL is a relational DB.
+
+4.	If you were asked to write a program that could write at least 50 different HTML tags how would you do it?
+	I would write a tag writing program that would do it.
+
+5.	What software design pattern would you be demonstrating in in the above solution?
+	DRY
+
+6.	What version control system(s) have you used?
+	GIT
+
+7.	What is GitHub and have you ever used it?  
+	It is a we-based hosting service for software development. Yes, I have used it.
+
+8.	What is the command to create a GIT repository
+	git init
+
+9.	What is the command to tell GIT to start tracking the file?
+	git add
+
+10.	What is the command to commit your changes to the GIT log?
+	git commit -m
+
+11.	What is the command to add a remote repository?
+	git remote add origin
+
+12.	What is the command to send your committed changes to the remote repository?
+	git push origin master
+
+13.	What is your experience working in a software development team?
+	I have done some work in groups, my personal experience, the more you put it, the more yu are an essencial part of the group the better it is.
+
+14.	How would you create a new file and directory in linux?
+	vi "filename" mkdir "dirname"
+
+15.	How would you set the permissions on a file / folder, so that another user can write to it.   i.e. so you the webserver can upload a file to the directory.
+	chmod o+w "dirpath"
+
+16.	What program do you use to write your PHP code?
+	Notepad++
+
+17.	What is a constructor in PHP and how/why would you use it?
+	Constructors are functions in a class that are automatically called when you create a new instance of a class.
+
+18.	What is the difference between a class and an object?
+	A class is the blueprint of the object, where the object is the initialization of the class.
+
+19.	Why is it important to comment / document your code?
+	If you ever have to go back to make changes etc, it will be much easier to understand. Also for others to understand and follow the code.
+
+20.	What traits do you think a good computer programmer has?
+	Analitic, organized and creative mind, knows how to write simple, non-redundant and straight forward code.
